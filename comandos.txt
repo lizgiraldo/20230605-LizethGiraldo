@@ -1,0 +1,1109 @@
+   50  cd Desktop
+   51  ls
+   52  cd ta-te-ti
+   53  npm start
+   54  cd Desktop
+   55  cd ta-te-ti
+   56  npm start
+   57  npm i --save classnames
+   58  npm i --save classnames
+   59  npm i --save classnames
+   60  sudo npm i --save classnames
+   61  sudo su npm i --save classnames
+   62  sudo su lizeth npm i --save classnames
+   63  cd Desktop
+   64  cd ta-te-ti
+   65  npm start
+   66  cd Desktop
+   67  cd ta-te-ti
+   68  npm start
+   69  ls
+   70  cd tic-tac
+   71  npm
+   72  npm run
+   73  npm start
+   74  exit
+   75   /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp "/Users/lizethgiraldoalvarado/Library/Application Support/Code/User/workspaceStorage/ab19e15d751fcb10056f4bfe58603ee2/redhat.java/jdt_ws/abril_30_64c32b84/bin" metodo 
+   76   cd "/Users/lizethgiraldoalvarado/Desktop/segundo semestre/FUNDAMENTOS DE PROGRAMACION/abril_30" ; /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp "/Users/lizethgiraldoalvarado/Library/Application Support/Code/User/workspaceStorage/ab19e15d751fcb10056f4bfe58603ee2/redhat.java/jdt_ws/abril_30_64c32b84/bin" metodo 
+   77   cd "/Users/lizethgiraldoalvarado/Desktop/segundo semestre/FUNDAMENTOS DE PROGRAMACION/abril_30" ; /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp "/Users/lizethgiraldoalvarado/Library/Application Support/Code/User/workspaceStorage/ab19e15d751fcb10056f4bfe58603ee2/redhat.java/jdt_ws/abril_30_64c32b84/bin" metodo 
+   78   cd "/Users/lizethgiraldoalvarado/Desktop/segundo semestre/FUNDAMENTOS DE PROGRAMACION/abril_30" ; /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp "/Users/lizethgiraldoalvarado/Library/Application Support/Code/User/workspaceStorage/ab19e15d751fcb10056f4bfe58603ee2/redhat.java/jdt_ws/abril_30_64c32b84/bin" metodo 
+   79   cd "/Users/lizethgiraldoalvarado/Desktop/segundo semestre/FUNDAMENTOS DE PROGRAMACION/abril_30" ; /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp "/Users/lizethgiraldoalvarado/Library/Application Support/Code/User/workspaceStorage/ab19e15d751fcb10056f4bfe58603ee2/redhat.java/jdt_ws/abril_30_64c32b84/bin" metodo 
+   80   /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp "/Users/lizethgiraldoalvarado/Library/Application Support/Code/User/workspaceStorage/da05d2387ff570303697fe68b4d7c8f9/redhat.java/jdt_ws/parcial 1_715dfbe7/bin" encuesta 
+   81   cd "/Users/lizethgiraldoalvarado/Desktop/segundo semestre/FUNDAMENTOS DE PROGRAMACION/parcial 1" ; /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp "/Users/lizethgiraldoalvarado/Library/Application Support/Code/User/workspaceStorage/da05d2387ff570303697fe68b4d7c8f9/redhat.java/jdt_ws/parcial 1_715dfbe7/bin" encuesta 
+   82   cd "/Users/lizethgiraldoalvarado/Desktop/segundo semestre/FUNDAMENTOS DE PROGRAMACION/parcial 1" ; /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp "/Users/lizethgiraldoalvarado/Library/Application Support/Code/User/workspaceStorage/da05d2387ff570303697fe68b4d7c8f9/redhat.java/jdt_ws/parcial 1_715dfbe7/bin" encuesta 
+   83   cd "/Users/lizethgiraldoalvarado/Desktop/segundo semestre/FUNDAMENTOS DE PROGRAMACION/parcial 1" ; /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp "/Users/lizethgiraldoalvarado/Library/Application Support/Code/User/workspaceStorage/da05d2387ff570303697fe68b4d7c8f9/redhat.java/jdt_ws/parcial 1_715dfbe7/bin" encuesta 
+   84   cd "/Users/lizethgiraldoalvarado/Desktop/segundo semestre/FUNDAMENTOS DE PROGRAMACION/parcial 1" ; /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp "/Users/lizethgiraldoalvarado/Library/Application Support/Code/User/workspaceStorage/da05d2387ff570303697fe68b4d7c8f9/redhat.java/jdt_ws/parcial 1_715dfbe7/bin" encuesta 
+   85   cd "/Users/lizethgiraldoalvarado/Desktop/segundo semestre/FUNDAMENTOS DE PROGRAMACION/parcial 1" ; /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp "/Users/lizethgiraldoalvarado/Library/Application Support/Code/User/workspaceStorage/da05d2387ff570303697fe68b4d7c8f9/redhat.java/jdt_ws/parcial 1_715dfbe7/bin" encuesta 
+   86   cd "/Users/lizethgiraldoalvarado/Desktop/segundo semestre/FUNDAMENTOS DE PROGRAMACION/parcial 1" ; /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp "/Users/lizethgiraldoalvarado/Library/Application Support/Code/User/workspaceStorage/da05d2387ff570303697fe68b4d7c8f9/redhat.java/jdt_ws/parcial 1_715dfbe7/bin" encuesta 
+   87   cd "/Users/lizethgiraldoalvarado/Desktop/segundo semestre/FUNDAMENTOS DE PROGRAMACION/parcial 1" ; /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp "/Users/lizethgiraldoalvarado/Library/Application Support/Code/User/workspaceStorage/da05d2387ff570303697fe68b4d7c8f9/redhat.java/jdt_ws/parcial 1_715dfbe7/bin" encuesta 
+   88   cd "/Users/lizethgiraldoalvarado/Desktop/segundo semestre/FUNDAMENTOS DE PROGRAMACION/parcial 1" ; /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp "/Users/lizethgiraldoalvarado/Library/Application Support/Code/User/workspaceStorage/da05d2387ff570303697fe68b4d7c8f9/redhat.java/jdt_ws/parcial 1_715dfbe7/bin" encuesta 
+   89   cd "/Users/lizethgiraldoalvarado/Desktop/segundo semestre/FUNDAMENTOS DE PROGRAMACION/parcial 1" ; /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp "/Users/lizethgiraldoalvarado/Library/Application Support/Code/User/workspaceStorage/da05d2387ff570303697fe68b4d7c8f9/redhat.java/jdt_ws/parcial 1_715dfbe7/bin" encuesta 
+   90   cd "/Users/lizethgiraldoalvarado/Desktop/segundo semestre/FUNDAMENTOS DE PROGRAMACION/parcial 1" ; /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp "/Users/lizethgiraldoalvarado/Library/Application Support/Code/User/workspaceStorage/da05d2387ff570303697fe68b4d7c8f9/redhat.java/jdt_ws/parcial 1_715dfbe7/bin" encuesta 
+   91   cd "/Users/lizethgiraldoalvarado/Desktop/segundo semestre/FUNDAMENTOS DE PROGRAMACION/parcial 1" ; /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp "/Users/lizethgiraldoalvarado/Library/Application Support/Code/User/workspaceStorage/da05d2387ff570303697fe68b4d7c8f9/redhat.java/jdt_ws/parcial 1_715dfbe7/bin" encuesta 
+   92   cd "/Users/lizethgiraldoalvarado/Desktop/segundo semestre/FUNDAMENTOS DE PROGRAMACION/parcial 1" ; /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp "/Users/lizethgiraldoalvarado/Library/Application Support/Code/User/workspaceStorage/da05d2387ff570303697fe68b4d7c8f9/redhat.java/jdt_ws/parcial 1_715dfbe7/bin" encuesta 
+   93   cd "/Users/lizethgiraldoalvarado/Desktop/segundo semestre/FUNDAMENTOS DE PROGRAMACION/parcial 1" ; /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp "/Users/lizethgiraldoalvarado/Library/Application Support/Code/User/workspaceStorage/da05d2387ff570303697fe68b4d7c8f9/redhat.java/jdt_ws/parcial 1_715dfbe7/bin" encuesta 
+   94   cd "/Users/lizethgiraldoalvarado/Desktop/segundo semestre/FUNDAMENTOS DE PROGRAMACION/parcial 1" ; /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp "/Users/lizethgiraldoalvarado/Library/Application Support/Code/User/workspaceStorage/da05d2387ff570303697fe68b4d7c8f9/redhat.java/jdt_ws/parcial 1_715dfbe7/bin" encuesta 
+   95   cd "/Users/lizethgiraldoalvarado/Desktop/segundo semestre/FUNDAMENTOS DE PROGRAMACION/parcial 1" ; /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp "/Users/lizethgiraldoalvarado/Library/Application Support/Code/User/workspaceStorage/da05d2387ff570303697fe68b4d7c8f9/redhat.java/jdt_ws/parcial 1_715dfbe7/bin" encuesta 
+   96   cd "/Users/lizethgiraldoalvarado/Desktop/segundo semestre/FUNDAMENTOS DE PROGRAMACION/parcial 1" ; /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp "/Users/lizethgiraldoalvarado/Library/Application Support/Code/User/workspaceStorage/da05d2387ff570303697fe68b4d7c8f9/redhat.java/jdt_ws/parcial 1_715dfbe7/bin" encuesta 
+   97   cd "/Users/lizethgiraldoalvarado/Desktop/segundo semestre/FUNDAMENTOS DE PROGRAMACION/parcial 1" ; /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp "/Users/lizethgiraldoalvarado/Library/Application Support/Code/User/workspaceStorage/da05d2387ff570303697fe68b4d7c8f9/redhat.java/jdt_ws/parcial 1_715dfbe7/bin" encuesta 
+   98  ls
+   99  cd Desktop
+  100  ls
+  101  cd ta-te-ti
+  102  npm start
+  103  /usr/bin/python3 /Users/lizethgiraldoalvarado/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/shell_exec.py /usr/bin/python3 -m pip install -U ipykernel /var/folders/mg/zmrjw_d53vz_2x8wd493my3c0000gn/T/tmp-11830cS4h8u1PdVHW.log
+  104  /usr/bin/python3 /Users/lizethgiraldoalvarado/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/shell_exec.py /usr/bin/python3 -m pip install -U ipykernel /var/folders/mg/zmrjw_d53vz_2x8wd493my3c0000gn/T/tmp-118303zTYknNrFv43.log
+  105   /usr/bin/env /usr/bin/python3 /Users/lizethgiraldoalvarado/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 55261 -- "/Users/lizethgiraldoalvarado/Desktop/segundo semestre/FUNDAMENTOS DE PROGRAMACION/codigo/funcion.py" 
+  106   cd "/Users/lizethgiraldoalvarado/Desktop/segundo semestre/FUNDAMENTOS DE PROGRAMACION" ; /usr/bin/env /usr/bin/python3 /Users/lizethgiraldoalvarado/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 55267 -- "/Users/lizethgiraldoalvarado/Desktop/segundo semestre/FUNDAMENTOS DE PROGRAMACION/codigo/funcion.py" 
+  107   cd "/Users/lizethgiraldoalvarado/Desktop/segundo semestre/FUNDAMENTOS DE PROGRAMACION" ; /usr/bin/env /usr/bin/python3 /Users/lizethgiraldoalvarado/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 55273 -- "/Users/lizethgiraldoalvarado/Desktop/segundo semestre/FUNDAMENTOS DE PROGRAMACION/codigo/funcion.py" 
+  108   cd "/Users/lizethgiraldoalvarado/Desktop/segundo semestre/FUNDAMENTOS DE PROGRAMACION" ; /usr/bin/env /usr/bin/python3 /Users/lizethgiraldoalvarado/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 55280 -- "/Users/lizethgiraldoalvarado/Desktop/segundo semestre/FUNDAMENTOS DE PROGRAMACION/codigo/funcion.py" 
+  109   cd "/Users/lizethgiraldoalvarado/Desktop/segundo semestre/FUNDAMENTOS DE PROGRAMACION" ; /usr/bin/env /usr/bin/python3 /Users/lizethgiraldoalvarado/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 55290 -- "/Users/lizethgiraldoalvarado/Desktop/segundo semestre/FUNDAMENTOS DE PROGRAMACION/codigo/funcion.py" 
+  110   cd "/Users/lizethgiraldoalvarado/Desktop/segundo semestre/FUNDAMENTOS DE PROGRAMACION" ; /usr/bin/env /usr/bin/python3 /Users/lizethgiraldoalvarado/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 55315 -- "/Users/lizethgiraldoalvarado/Desktop/segundo semestre/FUNDAMENTOS DE PROGRAMACION/codigo/funcion.py" 
+  111   cd "/Users/lizethgiraldoalvarado/Desktop/segundo semestre/FUNDAMENTOS DE PROGRAMACION" ; /usr/bin/env /usr/bin/python3 /Users/lizethgiraldoalvarado/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 55354 -- "/Users/lizethgiraldoalvarado/Desktop/segundo semestre/FUNDAMENTOS DE PROGRAMACION/codigo/funcion.py" 
+  112   cd "/Users/lizethgiraldoalvarado/Desktop/segundo semestre/FUNDAMENTOS DE PROGRAMACION" ; /usr/bin/env /usr/bin/python3 /Users/lizethgiraldoalvarado/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 55362 -- "/Users/lizethgiraldoalvarado/Desktop/segundo semestre/FUNDAMENTOS DE PROGRAMACION/codigo/funcion.py" 
+  113   cd "/Users/lizethgiraldoalvarado/Desktop/segundo semestre/FUNDAMENTOS DE PROGRAMACION" ; /usr/bin/env /usr/bin/python3 /Users/lizethgiraldoalvarado/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 55387 -- "/Users/lizethgiraldoalvarado/Desktop/segundo semestre/FUNDAMENTOS DE PROGRAMACION/codigo/funcion.py" 
+  114  clear
+  115   cd "/Users/lizethgiraldoalvarado/Desktop/segundo semestre/FUNDAMENTOS DE PROGRAMACION" ; /usr/bin/env /usr/bin/python3 /Users/lizethgiraldoalvarado/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 55395 -- "/Users/lizethgiraldoalvarado/Desktop/segundo semestre/FUNDAMENTOS DE PROGRAMACION/codigo/funcion.py" 
+  116   cd "/Users/lizethgiraldoalvarado/Desktop/segundo semestre/FUNDAMENTOS DE PROGRAMACION" ; /usr/bin/env /usr/bin/python3 /Users/lizethgiraldoalvarado/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 55404 -- "/Users/lizethgiraldoalvarado/Desktop/segundo semestre/FUNDAMENTOS DE PROGRAMACION/codigo/funcion.py" 
+  117   /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp "/Users/lizethgiraldoalvarado/Library/Application Support/Code/User/workspaceStorage/e5d193dea4fd009ef9c23d78efe51648/redhat.java/jdt_ws/FUNDAMENTOS DE PROGRAMACION_94a38c33/bin" operacionesBasicas.OperacionesBasicas 
+  118   cd "/Users/lizethgiraldoalvarado/Desktop/segundo semestre/FUNDAMENTOS DE PROGRAMACION" ; /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp "/Users/lizethgiraldoalvarado/Library/Application Support/Code/User/workspaceStorage/e5d193dea4fd009ef9c23d78efe51648/redhat.java/jdt_ws/FUNDAMENTOS DE PROGRAMACION_94a38c33/bin" operacionesBasicas.OperacionesBasicas 
+  119   cd "/Users/lizethgiraldoalvarado/Desktop/segundo semestre/FUNDAMENTOS DE PROGRAMACION" ; /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp "/Users/lizethgiraldoalvarado/Library/Application Support/Code/User/workspaceStorage/e5d193dea4fd009ef9c23d78efe51648/redhat.java/jdt_ws/FUNDAMENTOS DE PROGRAMACION_94a38c33/bin" operacionesBasicas.OperacionesBasicas 
+  120   cd "/Users/lizethgiraldoalvarado/Desktop/segundo semestre/FUNDAMENTOS DE PROGRAMACION" ; /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp "/Users/lizethgiraldoalvarado/Library/Application Support/Code/User/workspaceStorage/e5d193dea4fd009ef9c23d78efe51648/redhat.java/jdt_ws/FUNDAMENTOS DE PROGRAMACION_94a38c33/bin" OperacionesAritmeticas.OperacionesAritmeticas 
+  121   cd "/Users/lizethgiraldoalvarado/Desktop/segundo semestre/FUNDAMENTOS DE PROGRAMACION" ; /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp "/Users/lizethgiraldoalvarado/Library/Application Support/Code/User/workspaceStorage/e5d193dea4fd009ef9c23d78efe51648/redhat.java/jdt_ws/FUNDAMENTOS DE PROGRAMACION_94a38c33/bin" OperacionesAritmeticas.OperacionesAritmeticas 
+  122   /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp "/Users/lizethgiraldoalvarado/Library/Application Support/Code/User/workspaceStorage/d24fd2dfe54c24f6ea68bcb1222de9c2/redhat.java/jdt_ws/clase28Mayo_4c951e/bin" ClasePelota 
+  123   cd "/Users/lizethgiraldoalvarado/Desktop/segundo semestre/FUNDAMENTOS DE PROGRAMACION/clase28Mayo" ; /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp "/Users/lizethgiraldoalvarado/Library/Application Support/Code/User/workspaceStorage/d24fd2dfe54c24f6ea68bcb1222de9c2/redhat.java/jdt_ws/clase28Mayo_4c951e/bin" ClasePelota 
+  124   cd "/Users/lizethgiraldoalvarado/Desktop/segundo semestre/FUNDAMENTOS DE PROGRAMACION/clase28Mayo" ; /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp "/Users/lizethgiraldoalvarado/Library/Application Support/Code/User/workspaceStorage/d24fd2dfe54c24f6ea68bcb1222de9c2/redhat.java/jdt_ws/clase28Mayo_4c951e/bin" semana 
+  125   cd "/Users/lizethgiraldoalvarado/Desktop/segundo semestre/FUNDAMENTOS DE PROGRAMACION/clase28Mayo" ; /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp "/Users/lizethgiraldoalvarado/Library/Application Support/Code/User/workspaceStorage/d24fd2dfe54c24f6ea68bcb1222de9c2/redhat.java/jdt_ws/clase28Mayo_4c951e/bin" semana 
+  126   cd "/Users/lizethgiraldoalvarado/Desktop/segundo semestre/FUNDAMENTOS DE PROGRAMACION/clase28Mayo" ; /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp "/Users/lizethgiraldoalvarado/Library/Application Support/Code/User/workspaceStorage/d24fd2dfe54c24f6ea68bcb1222de9c2/redhat.java/jdt_ws/clase28Mayo_4c951e/bin" semana 
+  127   cd "/Users/lizethgiraldoalvarado/Desktop/segundo semestre/FUNDAMENTOS DE PROGRAMACION/clase28Mayo" ; /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp "/Users/lizethgiraldoalvarado/Library/Application Support/Code/User/workspaceStorage/d24fd2dfe54c24f6ea68bcb1222de9c2/redhat.java/jdt_ws/clase28Mayo_4c951e/bin" semana 
+  128  corepack enable
+  129  npm i -g corepack
+  130  exit
+  131  sudo npm install --global yarn
+  132  npx create-react-app crud-react
+  133  Run npm install -g npm@8.13.1 to update!
+  134  run npm intall -g npm@8.13.1 
+  135  nvm list
+  136  nvm install 16.0.0
+  137  yarn start
+  138  yarn add express-react-router
+  139  npx creat-react-app crud-new
+  140  npx creat-react-app crud-numbertwo
+  141  corepack enable
+  142  npx create-react-app crud-reacttwo
+  143  ls
+  144  cd crud-reacttwo
+  145  npm start
+  146  ls
+  147  cd crud-reacttwo
+  148  npm start
+  149  npm i bootstrap reactstrap
+  150  npm run start
+  151  clear
+  152  list
+  153  ls
+  154  cd crud-reacttwo
+  155  npm run start
+  156  ls
+  157  cd crud-reacttwo
+  158  npm start
+  159  ls
+  160  cd crud-reacttwo
+  161  npm i bootstrap reactstrap
+  162  npm run start
+  163   /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp "/Users/lizethgiraldoalvarado/Library/Application Support/Code/User/workspaceStorage/9e3fff8d628da137aafdb351316d37e4/redhat.java/jdt_ws/estructuraDeDatos_7009226e/bin" arbol 
+  164   cd /Users/lizethgiraldoalvarado/Documents/estructuraDeDatos ; /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp "/Users/lizethgiraldoalvarado/Library/Application Support/Code/User/workspaceStorage/9e3fff8d628da137aafdb351316d37e4/redhat.java/jdt_ws/estructuraDeDatos_7009226e/bin" estructuradedatos.arbol 
+  165   cd /Users/lizethgiraldoalvarado/Documents/estructuraDeDatos ; /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp "/Users/lizethgiraldoalvarado/Library/Application Support/Code/User/workspaceStorage/9e3fff8d628da137aafdb351316d37e4/redhat.java/jdt_ws/estructuraDeDatos_7009226e/bin" estructuradedatos.arbol 
+  166   cd /Users/lizethgiraldoalvarado/Documents/estructuraDeDatos ; /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp "/Users/lizethgiraldoalvarado/Library/Application Support/Code/User/workspaceStorage/9e3fff8d628da137aafdb351316d37e4/redhat.java/jdt_ws/estructuraDeDatos_7009226e/bin" estructuradedatos.arbol 
+  167   cd /Users/lizethgiraldoalvarado/Documents/estructuraDeDatos ; /usr/bin/env /Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin/java -XX:+ShowCodeDetailsInExceptionMessages -cp "/Users/lizethgiraldoalvarado/Library/Application Support/Code/User/workspaceStorage/9e3fff8d628da137aafdb351316d37e4/redhat.java/jdt_ws/estructuraDeDatos_7009226e/bin" estructuradedatos.arbol 
+  168  ls
+  169  cd Desktop
+  170  ls
+  171  npm start LibretaDeTareas
+  172  g++ --version
+  173  node -v
+  174  node --version
+  175  npm --version
+  176  sudo npm install -g @angular/cli
+  177  ng --version
+  178  ng new my-app
+  179  exit
+  180  sudo -i
+  181  ng s -o
+  182  npm install
+  183  ng s -o
+  184  ng s -o --port 4201
+  185  $ git config --global user.name 
+  186  $ git config --global user.name "lizgiraldo15"
+  187  git --version
+  188   git config --global user.name "lizgiraldo15"
+  189   git config --global user.email "lizgiraldo15@gmail.com"
+  190  ng s -o
+  191  cd ~/
+  192  ssh-keygen -t rsa
+  193  ~/.ssh/id_rsa
+  194  ~/.ssh/id_rsa.pub
+  195  ~/.ssh/id_rsa.pub
+  196  exit
+  197  git config --global user.name "lizgiraldo"
+  198  git config --global user.email "lizgiraldo15@gmail.com"
+  199  git config --list
+  200  ssh-keygen -t ed25519 -C "lizgiraldo15@gmail.com"
+  201  ls .ssh
+  202  pbcopy < ~/.ssh/id_rsa.pub
+  203  exit
+  204  $ ssh-keygen -t ed25519 -C "lizgiraldo15@gmail.com"
+  205   ssh-keygen -t ed25519 -C "lizgiraldo15@gmail.com"
+  206  cd /Users/lizethgiraldoalvarado/identityPlattform
+  207  git status
+  208  git pull 
+  209  git status
+  210  ls
+  211  cd Documents
+  212  ng new
+  213  ng -v
+  214  ng add @angularÃ/mateial
+  215  ng add @angularÃ/material
+  216  ng add @angular/material
+  217  npm install bootstrap
+  218  npm install jquery
+  219  npm install @popperjs/core
+  220  ng g s services/personaje-service
+  221  npm run
+  222  ng serveÃ
+  223  ng serve
+  224  npm start
+  225  npm start
+  226  ng add @angular/material
+  227  ng --help
+  228  ng add @angular/material
+  229  ng g c components/personajes
+  230  git init
+  231  git commit -m "subida incial"
+  232  git add .
+  233  git commit -m "subida incial"
+  234  git remote add origin https://github.com/lizgiraldo/marvelAngular.git
+  235  git push -u origin master
+  236  git status
+  237  git push -u origin master
+  238  npm start
+  239  git push -u origin master
+  240  ls
+  241  cd Documents
+  242  ls
+  243  cd Marvel
+  244  git push -u origin main
+  245  ng serve
+  246  ng g c components/personaje
+  247  git add
+  248  git add .
+  249  git commit -m "Se hace 
+  250  git commit -m "Se hace terminacion del proyecto falta css y constructores"
+  251  git push origin master
+  252  ng s -o
+  253  ls
+  254  cd Documents
+  255  ng new my_store
+  256  ng serve
+  257  ng serve -o --port=3500
+  258  exito
+  259  exit
+  260  ls
+  261  cd Documents
+  262  ls
+  263  cd my_store
+  264  ng serve -o --port=3500
+  265  ng -o
+  266  ng --help
+  267  ng serve
+  268  ng serve
+  269  ng serve
+  270  git status
+  271  git add .
+  272  git status
+  273  git commit -m "se agregan funcionalidades de boton ver mas"
+  274  git status
+  275  git push
+  276  ng serve
+  277  git status
+  278  git add .
+  279  git status
+  280  git commit -m "Cambios de ortografia finales"
+  281  git push
+  282  ng serve
+  283  git status
+  284  git commit -m "Actualizacion busqueda de personajes"
+  285  git add .
+  286  git commit -m "Actualizacion busqueda de personajes"
+  287  git status
+  288  git push
+  289  git --version
+  290  git--version
+  291  ls
+  292  cd Desktop
+  293  mkdir Informes
+  294  ls
+  295  cd Informes
+  296  touch informesAnual.xls
+  297  ls
+  298  mkdir auditoria
+  299  touch auditoria.xls
+  300  touch reporteConsolidado.xls
+  301  ls
+  302  mv auditoria.xls auditoria
+  303  cd auditoria
+  304  ls 
+  305  clear
+  306  cd..Desktop
+  307  cd Desktop
+  308  clear
+  309  cd..
+  310  clear
+  311  exit
+  312  ls
+  313  cd Desktop
+  314  mkdir informes
+  315  cd informes
+  316  touch informeAnual.xls
+  317  ls
+  318  ls
+  319  cd Desktop
+  320  pwd
+  321  mkdir Dh
+  322  mkdir dhEjercicio
+  323  cd dhEjercicio
+  324  mkdir clase2
+  325  mkdir desayuno almuerzo cena
+  326  cd almuerzo
+  327  mkdir lunes martes miercoles
+  328  cd lunes
+  329  touch milanesas.txt "huevo frito".txt papitas_fritas.pdf
+  330  mkdir almuerzovip
+  331  ls
+  332  ls -l
+  333  ls -s
+  334  ls -h
+  335  ls -help
+  336  ls -lh
+  337  rm almuerzovip
+  338  cd..
+  339  cd ..
+  340  cd ..
+  341  ls
+  342  cd almuerzo
+  343  mv clase2
+  344  clear
+  345  pwd
+  346  lmv clase2
+  347  clear
+  348  cd..
+  349  cd ..
+  350  ls
+  351  cd clase2
+  352  ls
+  353  cd almuerzo
+  354  touch tarta.txt
+  355  ls
+  356  mv tarta.txt miercoles
+  357  cd ..
+  358  ls
+  359  cd almuerzo
+  360  ls
+  361  cd miercoles
+  362  ls
+  363  cp -r lunes viernes
+  364  cd ..
+  365  cd ..
+  366  ls
+  367  cd almuerzo
+  368  ls
+  369  cp -r lunes miercoles
+  370  cp -r miercoles viernes
+  371  cd viernes
+  372  ls
+  373  cd ..
+  374  ls
+  375  cd lunes
+  376  cd
+  377  ls
+  378  clear
+  379  pwd
+  380  cd Desktop
+  381  mkdir DH
+  382  ls
+  383  cd DH
+  384  mkdir repaso_clase1y2
+  385  mkdir historia_de_la_contabilidad que_haremos_hoy servidores interfaces_de_usuario infraestructura
+  386  ls
+  387  cd repaso_clase1y2
+  388  mkdir historia_de_la_contabilidad que_haremos_hoy servidores interfaces_de_usuario infraestructura
+  389  ls
+  390  cd..
+  391  cd..
+  392  ls
+  393  cd ..
+  394  rm -r historia_de_la_contabilidad que_haremos_hoy servidores interfaces_de_usuario infraestructura
+  395  ls
+  396  cd repaso_clase1y2
+  397  ls
+  398  cd historia_de_la_contabilidad
+  399  touch repaso.txt
+  400  ls
+  401  ../
+  402  cd ..
+  403  cd servidores
+  404  ls
+  405  touch repaso.txt
+  406  cd ..
+  407  cd interfaces_de_usuario
+  408  touch repaso.txt
+  409  ls
+  410  cd ..
+  411  cd que_haremos_hoy
+  412  touch repaso.txt
+  413  cd ..
+  414  cd infraestructura
+  415  touch repaso.txt
+  416  clear
+  417  ls -R
+  418  clear
+  419  cd ..
+  420  clear
+  421  ls -R
+  422  clear
+  423  cd ..
+  424  ls -R
+  425  cd repaso_clase1y2
+  426  mv historia_de_la_contabilidad historia_de_la_informatica
+  427  mv que_haremos_hoy software_y_hardware
+  428  mv infraestructura git_bash_y_vscode
+  429  ls
+  430  ls -R
+  431  git --version
+  432  brew install git
+  433  clear
+  434  sudo port install git
+  435  sudo port install git
+  436  brew install git-gui
+  437  git --version
+  438  clear
+  439  pwd
+  440  cd Desktop
+  441  ls
+  442  cd DH
+  443  git init
+  444  cd ..
+  445  xcode-select--install
+  446  clear
+  447  $ xcode-select --install
+  448   xcode-select --install
+  449  git --version
+  450  cd Desktop
+  451  cd DH
+  452  git init
+  453  git status
+  454  git add .
+  455  git status
+  456  clear
+  457  cd ..
+  458  exit
+  459  ls
+  460  cd Desktop
+  461  clear
+  462  mkdir mercadoAbierto
+  463  cd mercadoAbierto
+  464  git init
+  465  touch productos.js
+  466  git status
+  467  git add productos.js
+  468  git status
+  469  git commit-m "mi primer commit"
+  470  git commit -m "mi primer commit"
+  471  git status
+  472  clear
+  473  ls
+  474  code.
+  475  code .
+  476  cd Desktop
+  477  ls
+  478  cd DH
+  479  code .
+  480  cd Desktop
+  481  cd DH
+  482  ls
+  483  cd repaso_clase1y2
+  484  code .
+  485  cd Desktop
+  486  clear
+  487  cd DH
+  488  clear
+  489  mkdir Peliculas
+  490  cd Peliculas
+  491  mkdir Infantiles Accion Terror Comedia Romanticas
+  492  cd Infantiles
+  493  touch Intensamente.txt "El juego del miedo".xls "Rapido y furioso".pdf Titanic.jpg
+  494  cd ..
+  495  cd Accion
+  496  touch "Smooth criminal".txt "Diario de una pasion".js "El hexorcista".xls Cars.jpg
+  497  cd ..
+  498  cd Terror
+  499  "La dama y el bagavundo"png "Yo antes de ti".xls "Que paso ayer".pdf "We will rock you".js
+  500  "La dama y el bagavundo".png
+  501  touch "La dama y el bagavundo".png
+  502  cd ..
+  503  cd Comedia
+  504  ls -R
+  505  cd ..
+  506  ls -R
+  507  cd Romanticas
+  508  touch Pocahontas.jpg Annabelle.js "Los vengadores".js "La mascara".js
+  509  cd ..
+  510  cd Comedia
+  511  ls
+  512  touch Madagaskar.js "Orgullo y prejuicio".txt IT.xls "Mision imposible".png
+  513  clear
+  514  cd ..
+  515  ls -R
+  516  cd Terror
+  517  touch "Yo antes de ti".xls "Que paso ayer".pdf "We will rock you".js
+  518  cd ..
+  519  cd..
+  520  cd ..
+  521  ls -R
+  522  clear
+  523  cd ..
+  524  clear
+  525  ls -R
+  526  clear
+  527  cd DH
+  528  ls -R
+  529  pwd
+  530  cd Peliculas
+  531  cd Romanticas
+  532  mkdir peliculas/romanticas/prueba
+  533  cd ..
+  534  cd ..
+  535  mkdir peliculas/romanticas/Prueba
+  536  cd Peliculas
+  537  cd Romanticas
+  538  mkdir Peliculas/Accion/Prueba2
+  539  mkdir peliculas/accion/Prueba2
+  540  mkdir ../Accion/Prueba2
+  541  cd ..
+  542  mv Cars.jpg ./Peliculas/Infantiles
+  543  mv Cars.jpg ../Infantiles
+  544  mv Cars.jpg Infantiles
+  545  mv cars.jpg ../Infantiles
+  546  pwd
+  547  cd Accion
+  548  mv Cars.jpg ../Infantiles
+  549  mv Diario\ de\ una\ pasion.js ../Romanticas
+  550  mv El\ hexorcista.xls ../Terror
+  551  rm Smooth\ criminal.txt
+  552  cd ..
+  553  cd Comedia
+  554  mv IT.xls ../Terror
+  555  mv Madagaskar.js ../Infantiles
+  556  mv Orgullo\ y\ prejuicio.txt ../Accion
+  557  mv Mision\ imposible.png ../Accion
+  558  cd ..
+  559  cd Infantiles
+  560  mv El\ juego\ del\ miedo.xls ../Terror
+  561  mv Rapido\ y\ furioso.pdf ../Accion
+  562  mv Titanic.jpg ../Romanticas
+  563  cd ../Romanticas
+  564  mv Annabelle.js ../Terror/
+  565  mv La\ mascara.js ../Comedia
+  566  mv Los\ vengadores.js ../Accion
+  567  mv Pocahontas.jpg ../Infantiles
+  568  cd ../Terror
+  569  mv La\ dama\ y\ el\ bagavundo.png ../Infantiles
+  570  mv Que\ paso\ ayer.pdf ../Comedia
+  571  rm We\ will\ rock\ you.js
+  572  mv Yo\ antes\ de\ ti.xls ../Romanticas
+  573  clear
+  574  cd ..
+  575  ls -R
+  576  cd Infantiles
+  577  mv La\ dama\ y\ el\ bagavundo.png "La dama y el vagabundo".png
+  578  ls
+  579  mv Madagaskar.js Madagascar.js
+  580  cd ..
+  581  cd ..
+  582  rm Cars.jpg ../Peliculas../Infantiles
+  583  rm  ../Peliculas../Infantiles../Cars.jpg
+  584  rm Peliculas/Infantiles/Cars.jps
+  585  rm Cars.jpg Peliculas/Infantiles
+  586  rm Peliculas/Infantiles/Cars.jpg
+  587  touch Peliculas/Infantiles/Cars.jpg
+  588  touch Peliculas/Accion/Prueba2/noBorrar.js
+  589  cd ..
+  590  cd DH
+  591  cd Peliculas
+  592  mv ../Peliculas/Accion/Prueba2/noBorrar.js ../Peliculas/Romanticas/Prueba
+  593  cd ..
+  594  touch camada.txt
+  595  cd  Peliculas
+  596  rm ../Peliculas/DH/camada.txt
+  597  rm ../Peliculas/../DH/camada.txt
+  598  rm ../camada.txt
+  599  rm -r ../Peliculas/Romanticas/Prueba
+  600  clear
+  601  ls -R
+  602   git remote add origin https://github.com/lizgiraldo/prueba-node.git
+  603  clear
+  604  pwd
+  605  cd Desktop
+  606  mkdir prueba-node
+  607  touch index.html
+  608  mv index.html prueba-node
+  609  cd prueba-node
+  610  ls
+  611  mkdir styles img
+  612  touch style.css ./styles
+  613  tocuh campana.jpg ./img
+  614  touch campana.jpg ./img
+  615  ls -R
+  616  clear
+  617  git init
+  618  git config user.name "lizgiraldo"
+  619  git config user.email "lizgiraldo15@gmal.com"
+  620  git remote add origin https://github.com/lizgiraldo/prueba-node.git
+  621  git remote -v
+  622  git status
+  623  git add .
+  624  git status
+  625  git commit -m "Primer Commit"
+  626  git status
+  627  git log
+  628  git push origin master
+  629  git push origin master
+  630  clear
+  631  git config user.name "lizgiraldo"
+  632  git config user.email "lizgiraldo15@gmail.com"
+  633  git config user.email "lizgiraldo15@gmail.com"
+  634  git remote add origin https://github.com/lizgiraldo/prueba-node.git
+  635  git remote add origin https://github.com/lizgiraldo/prueba-primer-repositorio.git
+  636  cd ..
+  637  ls
+  638  clear
+  639  exit
+  640  cd Desktop
+  641  cd primerRepositorio
+  642  touch index.html
+  643  touch ./css/style.css
+  644  touch ./img/repositorioGit.jpg
+  645  git init
+  646  git add .
+  647  git status
+  648  git commit -m "mi primer commit"
+  649  git long
+  650  git log
+  651  git remote add origin https://github.com/lizgiraldo/prueba-primer-repositorio.git
+  652  git remote -v
+  653  git push origin master
+  654  git remote --v
+  655  git remote add origin https://github.com/lizgiraldo/prueba-primer-repositorio.git
+  656  git brach -M main
+  657  git branch -M main
+  658  git push -u origin main
+  659  git init
+  660  git a-
+  661  git -a
+  662  clear
+  663  git config
+  664  clear
+  665  git config user.name
+  666  git config user.email
+  667  git commit -m "mi primer commit"
+  668  git add .
+  669  git commit -m "mi primer commit"
+  670  git add .
+  671  git status
+  672  git commit -m "agrego scrip.js"
+  673  git log
+  674  touch style.css
+  675  git add .
+  676  git commit "ase aagrego styles.css"
+  677  git commit -m "se aagrego styles.css"
+  678  git log --oneline
+  679  git checkout 210726d
+  680  git checkout main
+  681  git init
+  682  git clone https://github.com/raimunozv/Equipo6.git
+  683  ls
+  684  cd Equipo6
+  685  code .
+  686  clear
+  687  ls
+  688  touch pikachu.html
+  689  touch charmander.js
+  690  touch style.css
+  691  git add .
+  692  git commit -m "archivos lizeth"
+  693  git checkout
+  694  git log --oneline
+  695  git push origin main
+  696  git add .
+  697  git commit -m "contenido de los archivos"
+  698  git push origin main
+  699  git pull origin main
+  700  git pull origin main
+  701  mkdir Entrega1 Entrega2 Entrega3 Entrega4 Entrega5 Git-Github
+  702  touch Readme.MD Entrega1 Entrega2 Entrega3 Entrega4 Entrega5 Git-Github
+  703  touch Readme.MD Entrega1
+  704  touch Readme.MD Entrega2
+  705  clear
+  706  cd Entrega1
+  707  touch Readme.MD 
+  708  cd ..
+  709  cd Entrega2
+  710  touch Readme.MD 
+  711  cd ..
+  712  cd Entrega3
+  713  touch Readme.MD
+  714  cd ..
+  715  cd Entrega4
+  716  touch Readme.MD
+  717  cd ..
+  718  cd Entrega5
+  719  touch Readme.MD
+  720  cd ..
+  721  cd Git-Github
+  722  touch Readme.MD
+  723  ls -R
+  724  cd ..
+  725  ls -R
+  726  git init
+  727  git remote add origin https://github.com/lizgiraldo/Mochila_Lizeth_Giraldo.git
+  728  git add .
+  729  ls
+  730  git commit -m "CPrimer Commit Mochila"
+  731  ls -R
+  732  ls --oneline
+  733  git push origin main
+  734  clear
+  735  pwd
+  736  git branch trabajo_github
+  737  git checkout
+  738  git branch
+  739  git checkout trabajo_github
+  740  git branch
+  741  cd ..
+  742  cd Mochila_Lizeth_Giraldo
+  743  ls -R
+  744  git branch
+  745  git add .
+  746  git log --oneline
+  747  git commit -m "Subo Cheatsheet"
+  748  git push origin trabajo_github
+  749  pwd
+  750  git branch
+  751  git push origin trabajo_github
+  752  git brach
+  753  git branch
+  754  touch cheatsheet.txt
+  755  git add .
+  756  git commit -m "Subiendo cheatsheet"
+  757  git push origin trabajo_github
+  758  pwd
+  759  cd Desktop
+  760  touch LUIS_CARLOS_LIZETH_OSCAR.txt
+  761  git status
+  762  git push origin trabajo_github
+  763  git remote add origin https://github.com/lizgiraldo/curriculum.git
+  764  git init
+  765  git remote add origin https://github.com/lizgiraldo/curriculum.git
+  766  git add .
+  767  git status
+  768  git commit -m "primer commit"
+  769  git push origin master
+  770  git push origin main
+  771  git status
+  772  clear
+  773  git clone https://github.com/facuvillar27/FrontEndC7.git
+  774  git add . 
+  775  git add .
+  776  clear
+  777  git status
+  778  git add .
+  779  cd FrontEndC7
+  780  git add .
+  781  git status
+  782  git commit -m "correccion css"
+  783  git push origin main
+  784  git pull origin main
+  785  git status
+  786  git add .
+  787  git commit -m "arreglos"
+  788  git push origin main
+  789  git log --oneline
+  790   git status
+  791  git pull origin main
+  792  git branch
+  793  git push origin main
+  794  clear
+  795  git branch "nuevaRama"
+  796  git checkout nuevaRama
+  797  git add .
+  798  git status
+  799  git log --oneline
+  800  git add .
+  801  git commit -m "hola"
+  802  git push  origin nuevaRama
+  803  git checkout main
+  804  git push origin main
+  805  git checkout nuevaRama
+  806  git pull origin nuevaRama
+  807  git merge nuevaRama
+  808  git checkout
+  809  git branch
+  810  git checkout main
+  811  git branch
+  812  git pull origin main
+  813  git config pull.rebase false
+  814  git pull origin main
+  815  git branch
+  816  git branch -D nuevaRama
+  817  git add .
+  818  git commit -m "borrar rama"
+  819  git push origin main
+  820  clear
+  821  cd ..
+  822  mkdir proyectoPetShop
+  823  cd proyectoPetShop
+  824  git clone https://github.com/lizgiraldo/petShop.git
+  825  code .
+  826  git init
+  827  git remote add origin https://github.com/lizgiraldo/CV-LizethGirlado.git
+  828  git status
+  829  git status
+  830  git init
+  831  git remote add origin https://github.com/lizgiraldo/CV-LizethGirlado.git
+  832  git add .
+  833  git status
+  834  git commit -m "primer commit"
+  835  git push origin main
+  836  clear
+  837  git status
+  838  git branch
+  839  git add .
+  840  git commit -m "adelantado gran parte"
+  841  git status
+  842  git push origin main
+  843  git push origin main
+  844  git pull origin main
+  845  git status
+  846  git log --oneline
+  847  git add .
+  848  git status
+  849  ls
+  850  cd petShop
+  851  git add.
+  852  git add .
+  853  git commit -m "agrego fuente roboto"
+  854  git push origin main
+  855  git branch
+  856  git push origin master
+  857  clear
+  858  git pull origin master
+  859  git add .
+  860  pwd
+  861  git status
+  862  ls
+  863  cd petShop
+  864  git add .
+  865  git commit -m "metodo flex"
+  866  git push origin master
+  867  git add .
+  868  git commit -m "ensayo"
+  869  git push origin main
+  870  git status
+  871  git branch
+  872  git checkout main
+  873  git branch main
+  874  git checkout main
+  875  git checkout
+  876  git branch
+  877  git merge trabajo_github origin main
+  878  git merge trabajo_github
+  879  git status
+  880  git add .
+  881  git commit -m "aÃ±adir rama"
+  882  git push origin main
+  883  git clear
+  884  clear
+  885  git branch entrega1
+  886  git checkout entrega1
+  887  git log --online
+  888  git log -oneline
+  889  git log --oneline
+  890  git branch
+  891  pwd
+  892  cd Entrega1
+  893  pwd
+  894  clear
+  895  git add .
+  896  git commit -m "archivo entrega1"
+  897  git push origin entrega1
+  898  git checkout
+  899  git branch
+  900  git checkout git branch main
+  901  git checkout main
+  902  git status
+  903  git branch
+  904  git merge entrega1
+  905  git add .
+  906  git status
+  907  git commit -m "hice merge"
+  908  git push origin main
+  909  git status
+  910  pwd
+  911  cd Desktop
+  912  cd pizzaAndFront
+  913  git clone https://github.com/lizgiraldo/pizzaFront.git
+  914  git add .
+  915  git commit -m "organizando el header"
+  916  git push origin master
+  917  git pull origin master
+  918  git add .
+  919  git commit -m "Finalizacion del header"
+  920  git push origin master
+  921  git pull origin master
+  922  git clone https://github.com/lizgiraldo/heroes.git
+  923  git add .
+  924  git add .
+  925  git status
+  926  clear
+  927  git status
+  928  git add .
+  929  git init
+  930  git add .
+  931  git direction
+  932  cd heroes
+  933  git add .
+  934  git commit -m "Trabajando en batman"
+  935  git push origin master
+  936  git push origin master
+  937  git pull origin master
+  938  git add .
+  939  git commit -m "arreglo de rutas img"
+  940  git push origin master
+  941  cd heroes
+  942  git add .
+  943  git commit -m "faltante corazon"
+  944  git push origin master
+  945  git pull origin master
+  946  pwd
+  947  ls
+  948  pwd
+  949  git push origin master
+  950  git push origin main
+  951  git pull origin master
+  952  git add .
+  953  git commit -m "finalizando banner y header con flex"
+  954  git push origin master
+  955  pwd
+  956  git branch entrega2
+  957  git checkout entrega2
+  958  git add .
+  959  git commit -m "entrega2"
+  960  git branch
+  961  git push origin entrega2
+  962  git checkout main
+  963  git branch
+  964  git merge entrega2
+  965  git push origin main
+  966  git add .
+  967  git commit -m "arreglos menores"
+  968  git branch
+  969  git push origin master
+  970  pwd
+  971  cd Desktop
+  972  mkdir Peliculas && mkdir Peliculas/Infantiles mkdir Peliculas/Accion
+  973  ls
+  974  cd DH2
+  975  mv Peliculas ./DH2
+  976  cd DH2
+  977  LS
+  978  mkdir Terror Comedia Romanticas
+  979  touch Intensamente.txt "El juego del miedo".xls "Rapido y fueruiodo".pdf
+  980  cp * ./Accion
+  981  code .
+  982  rm -R Accion
+  983  mkdir Accion
+  984  mkdir -R Terror
+  985  rm -R Terro
+  986  rm -r Terror
+  987  cp ../DH2 ./Accion
+  988  mv Rapido\ y\ fueruiodo.pdf Accion
+  989  cp * Accion Comedia
+  990  cp * ./Accion ./Comedia
+  991  cp ./Accion/ ./Comedia 
+  992  cd Accion
+  993  cp * ../Comedia
+  994  cp ./Accion/ * ./Comedia 
+  995  rm -r ../Accion ../Comedia
+  996  mkdir Infantiles Accion Comedia
+  997  cd ..
+  998  mkdir Infantiles Accion Comedia
+  999  mkdir Terror
+ 1000  clear
+ 1001  touch ./Infantiles Intensamente.txt "El juego del miedo".xls "Rapido y furioso".pdf Titanic.jpg
+ 1002  cd Infantiles touch Intensamente.txt "El juego del miedo".xls "Rapido y furioso".pdf Titanic.jpg
+ 1003  cd Infantiles && touch Intensamente.txt "El juego del miedo".xls "Rapido y furioso".pdf Titanic.jpg
+ 1004  cd ..
+ 1005  rm "El juego del miedo.xls" Intensamente.txt Rapido\ y\ furioso.pdf Titanic.jpg
+ 1006  cd ./Accion && touch "Smooth criminal".txt "diario de una pasion".js "el herxoscista".xls cars.jpg
+ 1007  cd ..
+ 1008  touch ensayo.jpg ./Accion
+ 1009  touch ./Accion ensayo.txt
+ 1010  touch ./Accion/ ensayo.txt
+ 1011  touch Accion/ ensayo.txt
+ 1012  touch Accion ensayo2.txt
+ 1013  rm ensayo.txt ensayo2.txt
+ 1014  touch ../DH2/Accion/ ensayo.txt
+ 1015  rm ensayo.txt
+ 1016  touch ensayo.txt ../DH2/Accion
+ 1017  rm ensayo.txt
+ 1018  cd Terror
+ 1019  touch "la dama y el bagavundo.png" "yo antes de ti".xls "que paso ayer".pdf "we sill rock you".js
+ 1020  cd ..
+ 1021  touch Comedia ensayo1.txt
+ 1022  rÃm ensayo1.txt
+ 1023  rm ensayo1.txt
+ 1024  touch ./Accion/ ensayo2.txt
+ 1025  rm ensayo2.txt
+ 1026  touch Accion/Eensayo3.txt
+ 1027  rm Accion/Eensayo3.txt
+ 1028  touch Comedia/Madagascar.js "Orgullo y prejuicio".txt IT.xls "Mision Imposible".png
+ 1029  touch Comedia/"Orgullo y prejuicio".txt&&IT.xls&&"Mision Imposible".png
+ 1030  rm IT.xls Mision\ Imposible.png Orgullo\ y\ prejuicio.txt
+ 1031  touch Comedia/IT.xls&&"Mision imposible".png
+ 1032  rm Comedia/IT.xls
+ 1033  touch Comedia/IT.xls"Mision imposible".png
+ 1034  rm Comedia/IT.xlsMision\ imposible.png
+ 1035  touch Terror/ensayo1.txt,ensayo2.txt
+ 1036  rm Terror/ensayo1.txt,ensayo2.txt
+ 1037  rm Terror/ensayo1.txt ensayo2.txt
+ 1038  touch Terror/ensayo1.txt ensayo2.txt
+ 1039  rm ensayo2.txt
+ 1040  rm Terror/ensayo1.txt
+ 1041  cd Romanticas
+ 1042  touch Pocahontas.jpg Annabelle.js "Los vengadores".js "La mascara".js
+ 1043  cd ..
+ 1044  touch Comedia/IT.xls Comedia/"Mision imposible".png
+ 1045  ls -R
+ 1046  mkdir Romanticas/Prueba
+ 1047  cd Romanticas
+ 1048  mkdir ../Accion/Prueba2
+ 1049  cd ..
+ 1050  cd Accion
+ 1051  mv cars.jpg ../Infantiles
+ 1052  mv diario\ de\ una\ pasion.js ../Romanticas
+ 1053  mv el\ herxoscista.xls ../Terror
+ 1054  rm Smooth\ criminal.txt
+ 1055  mv ../Comedia/IT.xls ../Terror
+ 1056  cd ..
+ 1057  cd Comedia
+ 1058  mv Mision\ imposible.png ../Accion
+ 1059  mv Orgullo\ y\ prejuicio.txt ../Accion
+ 1060  mv ../Infantiles/El\ juego\ del\ miedo.xls ../Terror
+ 1061  mv ../Infantiles/Rapido\ y\ furioso.pdf ../Accion
+ 1062  mv ../Infantiles/Titanic.jpg ../Romanticas
+ 1063  mv ../Romanticas/Annabelle.js ../Terror
+ 1064  mv ../Romanticas/diario\ de\ una\ pasion.js ../Infantiles
+ 1065  mv ../Romanticas/La\ mascara.js ../Comedia
+ 1066  mv ../Romanticas/Pocahontas.jpg ../Infantiles
+ 1067  mv ../Romanticas/Los\ vengadores.js ../Accion
+ 1068  mv ../Terror/la\ dama\ y\ el\ bagavundo.png ../Romanticas
+ 1069  .
+ 1070  mv ../Terror/que\ paso\ ayer.pdf ../Comedia
+ 1071  rm ../Terror/we\ sill\ rock\ you.js
+ 1072  mv ../Terror/yo\ antes\ de\ ti.xls ../Romanticas
+ 1073  cd ..
+ 1074  clear
+ 1075  mv ./Infantiles/diario\ de\ una\ pasion.js "Diario de una princesa".js
+ 1076  mv Diario\ de\ una\ princesa.js ./Infantiles
+ 1077  mv ./Infantiles/cars.jpg ./Infantiles/Cars.jpg
+ 1078  mv ./Infantiles/cars.jpg ./Infantiles/Cars.txt
+ 1079  touch ./Accion/Prueba2/noBorrar.js
+ 1080  cd ..
+ 1081  mv ./DH2/Accion/Prueba2/noBorrar.js ./DH2/Romanticas/Prueba
+ 1082  cd DH
+ 1083  CD ..
+ 1084  cd DH2
+ 1085  cd ..
+ 1086  cd DH2
+ 1087  touch camadax.txt
+ 1088  cd ..
+ 1089  mv ./DH2/Terror/IT.xls ./DH2/Infantiles
+ 1090  cd DH2
+ 1091  rm camadax.txt
+ 1092  rm-r ./Romanticas/Prueba
+ 1093  rm -r ./Romanticas/Prueba
+ 1094  history 50 > ./Accion/Prueba2
+ 1095  history 20
+ 1096  clear
+ 1097  history 20 > ./Accion
+ 1098  history 20 > ./Accion/Historial.txt
+ 1099  history20 > ./Accion/Historial2.txt
+ 1100  history 20 < ./Accion/Historial2.txt
+ 1101  cd ..
+ 1102  rm -r DH2
+ 1103  pwd
+ 1104  git pull origin master
+ 1105  git add .
+ 1106  git commit -m "varios"
+ 1107  git pull origin master
+ 1108  git push origin master
+ 1109  git pull origin master
+ 1110  git branch rama
+ 1111  git checkout rama
+ 1112  git branch
+ 1113  git add .
+ 1114  git commit -m "rama"
+ 1115  git push origin master
+ 1116  git pull origin master
+ 1117  git status
+ 1118  git add .
+ 1119  git status
+ 1120  git commit -m "rama"
+ 1121  git push origin rama
+ 1122  git branch master
+ 1123  git checkout master
+ 1124  git branchg
+ 1125  git branch
+ 1126  git pull origin master
+ 1127  git clone https://github.com/lizgiraldo/petShop.git
+ 1128  git add .
+ 1129  git commit -m "trabajando en suscribete y footer"
+ 1130  cd petShop
+ 1131  git add .
+ 1132  git commit -m "trabajando en suscribete y footer"
+ 1133  git push origin master
+ 1134  git pull origin master
+ 1135  git init
+ 1136  git remote add origin https://github.com/lizgiraldo/20230605-LizethGiraldo.git
+ 1137  git checkout main
+ 1138  git branch
+ 1139  git status
+ 1140  touch comando.txt main.js index.html
+ 1141  git add .
+ 1142  git commit -m "Commit 01 de LizethGiraldo"
+ 1143  git push origin main
+ 1144  git branch feature
+ 1145  git checkout feature
+ 1146  mkdir Hardware Software SeguridadInformatica
+ 1147  touch ./Hardware/resumen.txt
+ 1148  touch ./SeguridadInformatica/resumen.txt
+ 1149  touch ./Software/resumen.txt
+ 1150  git push origin feature
+ 1151  git add .
+ 1152  git commit -m "Commit 02 LizethGiraldo"
+ 1153  git push origin feature
+ 1154  git checkout main
+ 1155  git branch
+ 1156  mv main.js resumenHardware.txt
+ 1157  mv index.html resumenSoftware.txt
+ 1158  mv comando.txt comandos.txt
